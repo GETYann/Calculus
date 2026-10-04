@@ -18,3 +18,9 @@ Calculus is a versatile tool designed to make everyday calculations and conversi
 Whether you need to convert a unit, calculate a distance, compare measurements or perform a precise calculation, Calculus provides practical and easy-to-use tools to help you get the answer you need.
 
 **Calculus turns complexity into simplicity.**
+
+<img width="310" height="450" alt="image" src="https://github.com/user-attachments/assets/40258b58-f01f-48a6-b117-4acbe9daf241" />
+<img width="310" height="450" alt="image" src="https://github.com/user-attachments/assets/16b4313c-b6b3-4ed4-ba83-4ae76c84f34f" />
+<img width="310" height="225" alt="image" src="https://github.com/user-attachments/assets/867c8c40-34cc-4b1f-9da4-c7a4cdc1bfb6" />
+<img width="310" height="500" alt="image" src="https://github.com/user-attachments/assets/058d0e5f-9414-4c48-a091-0132186db0ce" />
+
